@@ -16,7 +16,7 @@ voting_clf.fit(X_train, y_train)
 test_pred = voting_clf.predict(X_test)
 print(f'{voting_clf.__class__.__name__}, accuracy score = {accuracy_score(y_test, y_pred)}')
 ```
-
+In the notebook we focus on random forest and xgboost and do not include general ensemble models. In practice, while it is possible to get a small performance improvement by stacking classifiers of different classes, it makes the program slow. People usually prefer directly using random forest/xgboost as they have efficient implementations to make the model fitting process relatively fast.
 
 <h1 align="center"> Random Forest </h1>  
 
