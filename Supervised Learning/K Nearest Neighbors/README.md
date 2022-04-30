@@ -96,6 +96,6 @@ Common evaluation methods for classification problems such as confusion matrix, 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="Dataset"> Dataset</h2>
-We use a fruit dataset for this task. KNN is based on distance calculation and is relatively slow on large dataset compared to other methods such as random forest. Specifically, we are using a fruit's mass, width, height to predict what kind of fruit it is.
+I use a fruit dataset for this task. KNN is based on distance calculation and is relatively slow on large dataset compared to other methods such as random forest. Specifically, we are using a fruit's mass, width, height to predict what kind of fruit it is.
 
 Besides directly using sklearn, I also include code to implement KNN from scratch.
