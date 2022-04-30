@@ -143,4 +143,6 @@ Like recurrent neural networks (RNNs), transformers are designed to handle seque
 <h2 id="Dataset"> Dataset</h2>
  I used a build-in image dataset in sklearn, 'The Labeled Faces in the Wild face recognition dataset'. The targets(classes) are ['Ariel Sharon', 'Colin Powell', 'Donald Rumsfeld', 'George W Bush', 'Gerhard Schroeder', 'Hugo Chavez', 'Junichiro Koizumi', 'Tony Blair'], and the images have shape (1348, 62, 47), where the first dim is num_samples. 
  
+ 
+ 
  For this image recognition task, I compare the performances of MLP (without/with dropout layer) and a convolutional network.
