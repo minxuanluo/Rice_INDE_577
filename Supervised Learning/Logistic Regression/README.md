@@ -81,7 +81,7 @@ Common evaluation methods for classification problems, such as confusion matirx,
   
   We can also examine each explanatory variables' contributions by looking at the absolute magnitude and the sign of the estimated coefficients, look at their statistical significance, and calculate confidence intervals for coefficient estimates or for odds ratios.
   
-  In this notebook I used a imbalanced dataset, so model performances with/without oversampling (on training set) are compared based on an (imbalanced) test set.
+  In this notebook I used an imbalanced dataset, so model performances with/without oversampling (on training set) are compared based on an (imbalanced) test set. Oversampling can potentially help the model more easily pick up important features of the rare class.
   
   
 </p>
