@@ -14,6 +14,7 @@ There are basically 2 types of tasks for supervised learning, Regression and Cla
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 align="center"> Algorithms </h2>  
+
 * Logistic Regression
 * Decision Tree
 * Neural Network
