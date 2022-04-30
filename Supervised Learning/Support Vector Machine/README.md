@@ -118,4 +118,4 @@ Usual evaluation methods for classification problems: confusion matrix, precisio
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="Dataset"> Dataset</h2>
-A built-in dataset (face recognition) in sklearn is used. It is the same dataset as the one we use in the Neural Network notebook.
+A built-in dataset (face recognition) in sklearn is used. It is the same dataset as the one we use in the Neural Network notebook. PCA is first used to get features from the images.
