@@ -111,6 +111,8 @@ This dataset is used in notebooks for Neural Network, SVM.
     <br />
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. The dataset regarding the performance in Mathematics (mat) is used in this project. In the dataset, the target attribute G3 has a strong correlation with attributes G2 and G1. G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd period grades. The regression task here is to predict variable G2. Variable G3 is dropped, and G1 is included as an explanatory variable.
     <br />
+This dataset is used in notebooks for Linear Regression, Regression Trees.
+    <br />
     <br />
     <li><b>Fruit dataset</b>:  Multi-class Classification Problem</li> 
     <br />
