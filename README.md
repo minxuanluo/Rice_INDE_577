@@ -54,6 +54,7 @@ The following open source packages are used in this project:
 <h2 id="folder-structure"> Folder Structure</h2>
 
     ├── Supervised Learning
+    ├────── README.md
     ├────── Logistic Regression
     ├────── Decision Tree
     ├────── Neural Network
@@ -62,14 +63,20 @@ The following open source packages are used in this project:
     ├────── Ensemble Learning
     ├────── Linear Regression
     ├────── Regression Tree
+
     ├── Unsupervised Learning
+    ├────── README.md
     ├────── K-Means Clustering
     ├────── Principal Component Analysis
+    
     ├── Optimization
-    ├────── Gradient Descent
-    ├── Dataset
+    ├────── README.md
+    ├────── Gradient Descent 
+ 
     ├── README.md
     
+  
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -90,11 +97,36 @@ Heart disease is one of the leading causes of death for people of most races in 
     <br />
 The 'HeartDisease' variable has value of 'Yes' for respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI). 
     <br />
+This dataset is used in notebooks for Logistic Regression, Decision Tree, Ensemble Learning.
+    <br />
+    <br />
+    <li><b>Face Recognition Dataset (from sklearn)</b>: Multi-class Classification Problem </li> 
+    <br />
+This data contains black and white images of previous US presidents' faces. The target variable for this dataset name. 
+    <br />
+This dataset is used in notebooks for Neural Network, SVM.
+    <br />
     <br />
     <li><b>Academic Performance Prediction</b>: Regression Problem</li> 
     <br />
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. The dataset regarding the performance in Mathematics (mat) is used in this project. In the dataset, the target attribute G3 has a strong correlation with attributes G2 and G1. G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd period grades. The regression task here is to predict variable G2. Variable G3 is dropped, and G1 is included as an explanatory variable.
-
+    <br />
+    <br />
+    <li><b>Fruit dataset</b>:  Multi-class Classification Problem</li> 
+    <br />
+This data contains fruit types as labels and records for instances with features such as mass, weight, height.
+    <br />
+This dataset is used in notebooks for KNN.
+    <br />
+    <br />
+    <li><b>Facebook Live Sellers in Thailand Data Set</b>: Has label, but not used for Training. Used for Unsupervised Learning</li> 
+    <br />
+This data contains engagment metrics for posts such as num_reactions, num_comments, num_shares, num_likes, num_loves, num_wows, num_hahas, num_sads, num_angrys. Each record also has a status_type variable, which is the type of the post, being 'video', 'photo', 'link' or 'status'.
+    <br />
+This dataset is used in notebooks for K-Means, PCA.
+    <br />
+    <br />
+    
   </ul>
 </p>
 
