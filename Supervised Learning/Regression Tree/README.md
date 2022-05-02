@@ -1,4 +1,4 @@
-<h1 align="center"> Decision Tree </h1>  
+<h1 align="center"> Regression Tree </h1>  
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/minxuanluo/INDE577/blob/main/Regression/images/regressiontree.png">
